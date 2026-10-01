@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+websockets
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+joblib
+pyttsx3
